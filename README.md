@@ -162,6 +162,25 @@ We are constantly working to improve Study-Point. Here is what's coming next:
 
 ---
 
+##🎤 Presentation
+
+Want a full overview of **Study-Point (StudyGenie)**?
+
+You can check the complete presentation here:
+
+👉 **[Study-Point](https://github.com/Ayres-Adel/Study-Point/releases)**
+
+This presentation covers:
+- 🚀 The problem and our solution  
+- 🧠 AI-powered features and technology  
+- 🎮 Gamified learning experience  
+- 🏗️ System architecture and tech stack  
+- 💰 Business model and future vision  
+
+
+---
+
+
 ## 🤝 Contributing
 Project made by breakfast team :
 - [ ] **[Ayres-Adel](https://github.com/Ayres-Adel)**
