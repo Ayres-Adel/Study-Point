@@ -60,11 +60,19 @@ Study-Point isn't just a study tool; it's a visual experience. The platform feat
 
 ---
 
+### System Entity Mapping
+
+<div align="center">
+<a href="https://ibb.co/Kz5Js08n"><img src="https://i.ibb.co/7NSqpY0h/image.png" alt="image" border="0"></a><br /><a target='_blank' href='https://usefulwebtool.com/fr/clavier-russe'>alphabet russe français</a><br />
+</div>
+
+---
+
 ## 🚀 Live Demo
 
 The application is fully hosted online! You can view and interact with the platform directly without any local setup.
 
-**🌐 Live Website:** [Study-Point on Vercel](#) *(Replace `#` with your actual Vercel link)*
+**🌐 Live Website:** [Study-Point on Vercel](study-point-by-breakfast.vercel.app) *(Replace `#` with your actual Vercel link)*
 
 ---
 
