@@ -91,7 +91,7 @@ To navigate the codebase, it is essential to understand how natural language con
 
 The application is fully hosted online! You can view and interact with the platform directly without any local setup.
 
-**🌐 Live Website:** [Study-Point on Vercel](study-point-by-breakfast.vercel.app) *(Replace `#` with your actual Vercel link)*
+**🌐 Live Website:** [Study-Point on Vercel](study-point-by-breakfast.vercel.app) 
 
 ---
 
