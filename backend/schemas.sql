@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS `study_points`;
-USE `study_points`;
+-- CREATE DATABASE IF NOT EXISTS `study_points`;
+-- USE `study_points`;
 
 -- Drop old tables first (safe order for FK constraints)
 DROP TABLE IF EXISTS `exams`;
