@@ -1,3 +1,5 @@
+<div style="position:relative; width:100%; height:0px; padding-bottom:95.238%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/uf2ehw?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
 # 🎓 Study-Point (StudyGenie)
 
 Study-Point is an advanced, AI-powered educational platform designed to enhance the learning experience. By leveraging artificial intelligence (Google Gemini) and Natural Language Processing (NLP), Study-Point allows users to upload documents (PDFs) and automatically generates insights, summaries, and study materials. The platform features a stunning, modern user interface with 3D interactive elements and data visualization.
