@@ -60,12 +60,18 @@ Study-Point isn't just a study tool; it's a visual experience. The platform feat
 
 ---
 
-### System Entity Mapping
+## System Entity Mapping
 
 <div align="center">
-<a href="https://ibb.co/Kz5Js08n"><img src="https://i.ibb.co/7NSqpY0h/image.png" alt="image" border="0"></a><br /><a target='_blank' href='https://usefulwebtool.com/fr/clavier-russe'>alphabet russe français</a><br />
+<br />
+<a href="https://ibb.co/Kz5Js08n"><img src="https://i.ibb.co/7NSqpY0h/image.png" alt="image" border="0"></a><br /><a target='_blank' href='https://usefulwebtool.com/fr/clavier-russe'></a><br />
 </div>
 
+### Model-to-Database Mapping
+<br />
+<div align="center">
+<a href="https://ibb.co/k63V8R3p"><img src="https://i.ibb.co/jZV9McVd/image.png" alt="image" border="0"></a><br />
+</div>
 ---
 
 ## 🚀 Live Demo
