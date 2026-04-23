@@ -163,6 +163,13 @@ We are constantly working to improve Study-Point. Here is what's coming next:
 ---
 
 ## 🤝 Contributing
+Project made by breakfast team :
+- [ ] **[issues page](https://github.com/yourusername/Study-Point/issues)**
+- [ ] **[issues page](https://github.com/yourusername/Study-Point/issues)**
+- [ ] **[issues page](https://github.com/yourusername/Study-Point/issues)**
+- [ ] **[issues page](https://github.com/yourusername/Study-Point/issues)**
+- [ ] **[issues page](https://github.com/yourusername/Study-Point/issues)**
+
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/Study-Point/issues).
 
