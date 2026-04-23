@@ -72,8 +72,21 @@ Study-Point isn't just a study tool; it's a visual experience. The platform feat
 <div align="center">
 <a href="https://ibb.co/k63V8R3p"><img src="https://i.ibb.co/jZV9McVd/image.png" alt="image" border="0"></a><br />
 </div>
+
+
 ---
 
+## Model-to-Database Mapping
+
+To navigate the codebase, it is essential to understand how natural language concepts map to specific code entities and files.
+
+### Concept to Code Mapping
+
+<div align="center">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/mCVnjZnm/image.png" alt="image" border="0"></a>
+</div>
+
+---
 ## 🚀 Live Demo
 
 The application is fully hosted online! You can view and interact with the platform directly without any local setup.
