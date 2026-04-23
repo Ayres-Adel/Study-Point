@@ -164,11 +164,11 @@ We are constantly working to improve Study-Point. Here is what's coming next:
 
 ## 🤝 Contributing
 Project made by breakfast team :
-- [ ] **[issues page](https://github.com/yourusername/Study-Point/issues)**
-- [ ] **[issues page](https://github.com/yourusername/Study-Point/issues)**
-- [ ] **[issues page](https://github.com/yourusername/Study-Point/issues)**
-- [ ] **[issues page](https://github.com/yourusername/Study-Point/issues)**
-- [ ] **[issues page](https://github.com/yourusername/Study-Point/issues)**
+- [ ] **[Ayres-Adel](https://github.com/Ayres-Adel)**
+- [ ] **[BILAL204-ME](https://github.com/BILAL204-ME)**
+- [ ] **[lotfi1623](https://github.com/lotfi1623)**
+- [ ] **[tt](https://github.com/Ayres-Adel)**
+- [ ] **[Aybdell](https://github.com/Aybdell)**
 
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/Study-Point/issues).
