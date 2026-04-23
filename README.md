@@ -173,6 +173,29 @@ Project made by breakfast team :
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/Study-Point/issues).
 
+---
+
 ## 📝 License
 
 This project is licensed under the [ISC License](https://opensource.org/licenses/ISC).
+
+---
+
+## 📜 Dedication
+This project is dedicated to:
+
+📚 Every student who has ever felt overwhelmed by endless pages, yet refused to give up on learning.
+
+💡 The curious minds who believe that education should be smarter, more engaging, and driven by innovation.
+
+👨‍👩‍👧‍👦 Our families and friends — for their constant support, patience, and belief in our vision throughout this journey.
+
+🎓 Our mentors and educators — for guiding us, challenging us, and inspiring us to merge technology with education to create meaningful impact.
+
+🤖 The spirit of innovation — pushing us to explore the power of AI and redefine how knowledge is discovered, understood, and retained.
+
+🕌 And above all, to Allah — for granting us the strength, clarity, and perseverance to bring this idea to life.
+
+🙏 Finally, a special thanks to my teammate and partner — whose dedication, creativity, and commitment turned this vision into reality. This project stands as a reflection of our shared effort, late nights, and relentless ambition.
+
+> "Behind every line of code and every idea — there was a light that never faded.💠❤️"
